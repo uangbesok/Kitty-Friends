@@ -1,5 +1,6 @@
 import React from "react";
 
+// Displays generated kitty
 const Card = ({id, name, email}) => {
   return (
     <div className="bg-lightest-blue dib br3 pa3 ma2 grow bw2 shadow-5 tc">
